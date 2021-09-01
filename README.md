@@ -4,3 +4,5 @@ Pirmais septembris
 
 
 ##
+# Hello from visual studio 
+ # Hi
