@@ -5,4 +5,4 @@ Pirmais septembris
 
 ##
 # Hello from visual studio 
- # Hi
+ # Hi my homework 1
