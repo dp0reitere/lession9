@@ -1,0 +1,16 @@
+C:\Users\marts\OneDrive\Dokumenti\DAGNija\C sarp 2021\Lekcija3\Lekcija3\bin\Debug\net5.0\Lekcija3.exe
+C:\Users\marts\OneDrive\Dokumenti\DAGNija\C sarp 2021\Lekcija3\Lekcija3\bin\Debug\net5.0\Lekcija3.deps.json
+C:\Users\marts\OneDrive\Dokumenti\DAGNija\C sarp 2021\Lekcija3\Lekcija3\bin\Debug\net5.0\Lekcija3.runtimeconfig.json
+C:\Users\marts\OneDrive\Dokumenti\DAGNija\C sarp 2021\Lekcija3\Lekcija3\bin\Debug\net5.0\Lekcija3.runtimeconfig.dev.json
+C:\Users\marts\OneDrive\Dokumenti\DAGNija\C sarp 2021\Lekcija3\Lekcija3\bin\Debug\net5.0\Lekcija3.dll
+C:\Users\marts\OneDrive\Dokumenti\DAGNija\C sarp 2021\Lekcija3\Lekcija3\bin\Debug\net5.0\ref\Lekcija3.dll
+C:\Users\marts\OneDrive\Dokumenti\DAGNija\C sarp 2021\Lekcija3\Lekcija3\bin\Debug\net5.0\Lekcija3.pdb
+C:\Users\marts\OneDrive\Dokumenti\DAGNija\C sarp 2021\Lekcija3\Lekcija3\obj\Debug\net5.0\Lekcija3.csproj.AssemblyReference.cache
+C:\Users\marts\OneDrive\Dokumenti\DAGNija\C sarp 2021\Lekcija3\Lekcija3\obj\Debug\net5.0\Lekcija3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marts\OneDrive\Dokumenti\DAGNija\C sarp 2021\Lekcija3\Lekcija3\obj\Debug\net5.0\Lekcija3.AssemblyInfoInputs.cache
+C:\Users\marts\OneDrive\Dokumenti\DAGNija\C sarp 2021\Lekcija3\Lekcija3\obj\Debug\net5.0\Lekcija3.AssemblyInfo.cs
+C:\Users\marts\OneDrive\Dokumenti\DAGNija\C sarp 2021\Lekcija3\Lekcija3\obj\Debug\net5.0\Lekcija3.csproj.CoreCompileInputs.cache
+C:\Users\marts\OneDrive\Dokumenti\DAGNija\C sarp 2021\Lekcija3\Lekcija3\obj\Debug\net5.0\Lekcija3.dll
+C:\Users\marts\OneDrive\Dokumenti\DAGNija\C sarp 2021\Lekcija3\Lekcija3\obj\Debug\net5.0\ref\Lekcija3.dll
+C:\Users\marts\OneDrive\Dokumenti\DAGNija\C sarp 2021\Lekcija3\Lekcija3\obj\Debug\net5.0\Lekcija3.pdb
+C:\Users\marts\OneDrive\Dokumenti\DAGNija\C sarp 2021\Lekcija3\Lekcija3\obj\Debug\net5.0\Lekcija3.genruntimeconfig.cache

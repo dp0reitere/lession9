@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Majas_darbs_3_Dagnija/1.0.0": {
+        "runtime": {
+          "Majas_darbs_3_Dagnija.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Majas_darbs_3_Dagnija/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

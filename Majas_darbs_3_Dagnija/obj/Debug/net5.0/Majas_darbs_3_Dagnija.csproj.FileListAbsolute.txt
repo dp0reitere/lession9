@@ -1,0 +1,16 @@
+C:\Users\marts\OneDrive\Dokumenti\DAGNija\C sarp 2021\Majas_darbs_3_Dagnija\bin\Debug\net5.0\Majas_darbs_3_Dagnija.exe
+C:\Users\marts\OneDrive\Dokumenti\DAGNija\C sarp 2021\Majas_darbs_3_Dagnija\bin\Debug\net5.0\Majas_darbs_3_Dagnija.deps.json
+C:\Users\marts\OneDrive\Dokumenti\DAGNija\C sarp 2021\Majas_darbs_3_Dagnija\bin\Debug\net5.0\Majas_darbs_3_Dagnija.runtimeconfig.json
+C:\Users\marts\OneDrive\Dokumenti\DAGNija\C sarp 2021\Majas_darbs_3_Dagnija\bin\Debug\net5.0\Majas_darbs_3_Dagnija.runtimeconfig.dev.json
+C:\Users\marts\OneDrive\Dokumenti\DAGNija\C sarp 2021\Majas_darbs_3_Dagnija\bin\Debug\net5.0\Majas_darbs_3_Dagnija.dll
+C:\Users\marts\OneDrive\Dokumenti\DAGNija\C sarp 2021\Majas_darbs_3_Dagnija\bin\Debug\net5.0\ref\Majas_darbs_3_Dagnija.dll
+C:\Users\marts\OneDrive\Dokumenti\DAGNija\C sarp 2021\Majas_darbs_3_Dagnija\bin\Debug\net5.0\Majas_darbs_3_Dagnija.pdb
+C:\Users\marts\OneDrive\Dokumenti\DAGNija\C sarp 2021\Majas_darbs_3_Dagnija\obj\Debug\net5.0\Majas_darbs_3_Dagnija.csproj.AssemblyReference.cache
+C:\Users\marts\OneDrive\Dokumenti\DAGNija\C sarp 2021\Majas_darbs_3_Dagnija\obj\Debug\net5.0\Majas_darbs_3_Dagnija.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marts\OneDrive\Dokumenti\DAGNija\C sarp 2021\Majas_darbs_3_Dagnija\obj\Debug\net5.0\Majas_darbs_3_Dagnija.AssemblyInfoInputs.cache
+C:\Users\marts\OneDrive\Dokumenti\DAGNija\C sarp 2021\Majas_darbs_3_Dagnija\obj\Debug\net5.0\Majas_darbs_3_Dagnija.AssemblyInfo.cs
+C:\Users\marts\OneDrive\Dokumenti\DAGNija\C sarp 2021\Majas_darbs_3_Dagnija\obj\Debug\net5.0\Majas_darbs_3_Dagnija.csproj.CoreCompileInputs.cache
+C:\Users\marts\OneDrive\Dokumenti\DAGNija\C sarp 2021\Majas_darbs_3_Dagnija\obj\Debug\net5.0\Majas_darbs_3_Dagnija.dll
+C:\Users\marts\OneDrive\Dokumenti\DAGNija\C sarp 2021\Majas_darbs_3_Dagnija\obj\Debug\net5.0\ref\Majas_darbs_3_Dagnija.dll
+C:\Users\marts\OneDrive\Dokumenti\DAGNija\C sarp 2021\Majas_darbs_3_Dagnija\obj\Debug\net5.0\Majas_darbs_3_Dagnija.pdb
+C:\Users\marts\OneDrive\Dokumenti\DAGNija\C sarp 2021\Majas_darbs_3_Dagnija\obj\Debug\net5.0\Majas_darbs_3_Dagnija.genruntimeconfig.cache
